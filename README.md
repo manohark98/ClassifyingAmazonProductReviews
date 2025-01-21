@@ -3,11 +3,7 @@
 # Amazon Reviews Sentiment Classification
 
 
-<p align="center">
-<img src="AmazonRev.png"
-     alt="Markdown Monster icon"
-     style=" padding:30px ;  width:400px" />
-</p>
+
     The classification model implemented by  a Recurrent Neural Network (RNN) with LSTM (Long Short-Term Memory) layers which classifies the  Amazon product reviews as either positive (1) or negative (0)
 
 ## Overview
@@ -51,9 +47,7 @@
 
 
 
-<img src="LSTM.png"
-     alt="Markdown Monster icon"
-     style="  float: left; margin-right: 10px; width:500px" />
+
 
 ##### Forward Pass:
 
@@ -69,12 +63,7 @@
 - Adam optimizer with L2 regularization (weight_decay = 0.01) to prevent overfitting and ensure smooth convergence.
     Learning rate is set to 0.0001.
 
-<p align="center">
-<img src="image.png"
-     alt="Markdown Monster icon"
-     style="margin_left:50px; margin-right: 10px; width:500px;" />
 
-</p>
 
 ##### How to Run
 * Clone the repository and install the required dependencies.
@@ -85,12 +74,6 @@
 
 ## Model Performance Evaluation
 
-<p align="center">
-<img src="ModelPer.png"
-     alt="Markdown Monster icon"
-     style="margin_left:50px; margin-right: 10px; width:800px;" />
-
-</p>
 
 ##### 1. Model Accuracy Over Epochs
 
